@@ -1,0 +1,2 @@
+# advisories
+My CVE advisories
